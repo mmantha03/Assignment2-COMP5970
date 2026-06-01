@@ -1,0 +1,11 @@
+{
+  "name": "Campus Coffee",
+  "short_name": "Coffee",
+  "description": "A small interactive coffee ordering app.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#FFF2E4",
+  "theme_color": "#8B5E3C",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false
+}
